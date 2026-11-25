@@ -1,0 +1,34 @@
+{
+    "myths": [
+        {
+            "name": "Sandeep G",
+            "myth_title": "Myth",
+            "category": "Ancient Civilizations & Geology",
+            "details": "abcdefghijkmnopqrstuvwxyz",
+            "submitted_at": "2026-11-25 07:30:36"
+        },
+        {
+            "name": "gh",
+            "myth_title": "gfhj",
+            "category": "Ancient Civilizations & Geology",
+            "details": "tyu",
+            "submitted_at": "2026-11-25 07:30:48"
+        },
+        {
+            "name": "Sandy",
+            "myth_title": "mythh 1",
+            "category": "Ancient Civilizations & Geology",
+            "details": "sdfgh",
+            "submitted_at": "2026-11-25 09:16:35"
+        }
+    ],
+    "feedback": [
+        {
+            "name": "dfghjk",
+            "email": "rtyui@gmail.com",
+            "topic": "Suggest Website Change",
+            "message": "sdfu",
+            "submitted_at": "2026-11-25 09:21:04"
+        }
+    ]
+}
